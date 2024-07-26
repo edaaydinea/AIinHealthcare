@@ -1,55 +1,48 @@
-# Detailed README
 
-## Specializations
+# AI in Healthcare Specialization
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+- **Where:** Coursera
+- **University/Institute:** Stanford University
+- **Status:** In progress
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+## Courses in this Specialization
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Introduction to Healthcare
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/intro-to-healthcare?specialization=ai-healthcare>
 
+2. Introduction to Clinical Data
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-clinical-data?specialization=ai-healthcare>
+
+3. Fundamentals of Machine Learning for Healthcare
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/fundamental-machine-learning-healthcare?specialization=ai-healthcare>  
+
+4. Evaluating AI Applications in Healthcare
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/evaluating-ai-applications-healthcare?specialization=ai-healthcare>
+  
+5. AI in Healtcare Capstone
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/ai-healthcare-capstone?specialization=ai-healthcare>
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Introduction to Healthcare
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+- **Status:** In Progress
+- **Link:** 
+  - Module 1: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week1.md>
+  - Module 2: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week2.md>
+  - Module 3: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week3.md
 
 ...
-
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
 
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
+- **Introduction to Healthcare**
   - **Link:** [URL to certificate, if available]
