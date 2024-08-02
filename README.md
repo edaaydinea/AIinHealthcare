@@ -37,6 +37,7 @@
   - Module 1: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week1.md>
   - Module 2: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week2.md>
   - Module 3: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week3.md>
+  - Module 4: <https://github.com/edaaydinea/AIinHealthcare/blob/main/IntroductionToHealthcare/Week4.md>
 
 ...
 
