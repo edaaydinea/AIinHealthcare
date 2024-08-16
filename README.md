@@ -33,12 +33,14 @@
 ### Introduction to Healthcare
 
 - **Status:** In Progress
-- **Link:** 
-  - Module 1: <IntroductionToHealthcare/Week1.md>
-  - Module 2: <IntroductionToHealthcare/Week2.md>
-  - Module 3: <IntroductionToHealthcare/Week3.md>
-  - Module 4: <IntroductionToHealthcare/Week4.md>
-  - Module 5: <IntroductionToHealthcare/Week5.md>
+- **Lecture Notes:** 
+  - [Module 1 Notes](/IntroductionToHealthcare/Week1.md)
+  - [Module 2 Notes](/IntroductionToHealthcare/Week2.md)
+  - [Module 3 Notes](/IntroductionToHealthcare/Week3.md)
+  - [Module 4 Notes](/IntroductionToHealthcare/Week4.md)
+  - [Module 5 Notes](/IntroductionToHealthcare/Week5.md)
+  - [Module 6 Notes](/IntroductionToHealthcare/Week6.md)
+
 
 ...
 
