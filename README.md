@@ -6,44 +6,56 @@
 
 ## Courses in this Specialization
 
-Introduction to Healthcare
+### **Course 1: Introduction to Healthcare**
 
 *   **Status:** Completed
-*   **Link:** \<https://www.coursera.org/learn/intro-to-healthcare?specialization=ai-healthcare\>
+*   **Link:** https://www.coursera.org/learn/intro-to-healthcare?specialization=ai-healthcare
 
-Introduction to Clinical Data
-
-*   **Status:** Not Started
-*   **Link:** \<https://www.coursera.org/learn/introduction-clinical-data?specialization=ai-healthcare\>
-
-Fundamentals of Machine Learning for Healthcare
+### **Course 2: Introduction to Clinical Data**
 
 *   **Status:** Not Started
-*   **Link:** \<https://www.coursera.org/learn/fundamental-machine-learning-healthcare?specialization=ai-healthcare\>
+*   **Link:** https://www.coursera.org/learn/introduction-clinical-data?specialization=ai-healthcare
 
-Evaluating AI Applications in Healthcare
-
-*   **Status:** Not Started
-*   **Link:** \<https://www.coursera.org/learn/evaluating-ai-applications-healthcare?specialization=ai-healthcare\>
-
-AI in Healtcare Capstone
+### **Course 3: Fundamentals of Machine Learning for Healthcare**
 
 *   **Status:** Not Started
-*   **Link:** \<https://www.coursera.org/learn/ai-healthcare-capstone?specialization=ai-healthcare\>
+*   **Link:** https://www.coursera.org/learn/fundamental-machine-learning-healthcare?specialization=ai-healthcare
+
+### **Course 4: Evaluating AI Applications in Healthcare**
+
+*   **Status:** Not Started
+*   **Link:** https://www.coursera.org/learn/evaluating-ai-applications-healthcare?specialization=ai-healthcare
+
+### **Course 5: AI in Healtcare Capstone**
+
+*   **Status:** Not Started
+*   **Link:** \<https://www.coursera.org/learn/ai-healthcare-capstone?specialization=ai-healthcare
+
+---
 
 ## Courses
 
-*   Course 1: Introduction to Healthcare
-    *   **Status:** Completed
-    *   **Lecture Notes:**
-        *   [Module 1 Notes](/L1/Week1.md)
-        *   [Module 2 Notes](/L1/Week2.md)
-        *   [Module 3 Notes](/L1/Week3.md)
-        *   [Module 4 Notes](/L1/Week4.md)
-        *   [Module 5 Notes](/L1/Week5.md)
-        *   [Module 6 Notes](/L1/Week6.md)
+### _**Course 1: Introduction to Healthcare**_
+
+*   **Status:** Completed
+*   **Lecture Notes:**
+    *   [Module 1 Notes](/L1/Week1.md)
+    *   [Module 2 Notes](/L1/Week2.md)
+    *   [Module 3 Notes](/L1/Week3.md)
+    *   [Module 4 Notes](/L1/Week4.md)
+    *   [Module 5 Notes](/L1/Week5.md)
+    *   [Module 6 Notes](/L1/Week6.md)
+
+### _**Course 2: Introduction to Clinical Data**_
+
+*   **Status:** In Progress
+    *   [Module 1 Notes](/L2/W1/lecture_note.ipynb)
+
+---
 
 ## [Transcript](/transcript.pdf)
+
+---
 
 ## Certificates
 
