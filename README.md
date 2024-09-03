@@ -36,12 +36,12 @@ AI in Healtcare Capstone
 *   Course 1: Introduction to Healthcare
     *   **Status:** Completed
     *   **Lecture Notes:**
-        *   [Module 1 Notes](/IntroductionToHealthcare/Week1.md)
-        *   [Module 2 Notes](/IntroductionToHealthcare/Week2.md)
-        *   [Module 3 Notes](/IntroductionToHealthcare/Week3.md)
-        *   [Module 4 Notes](/IntroductionToHealthcare/Week4.md)
-        *   [Module 5 Notes](/IntroductionToHealthcare/Week5.md)
-        *   [Module 6 Notes](/IntroductionToHealthcare/Week6.md)
+        *   [Module 1 Notes](/L1/Week1.md)
+        *   [Module 2 Notes](/L1/Week2.md)
+        *   [Module 3 Notes](/L1/Week3.md)
+        *   [Module 4 Notes](/L1/Week4.md)
+        *   [Module 5 Notes](/L1/Week5.md)
+        *   [Module 6 Notes](/L1/Week6.md)
 
 ## [Transcript](/transcript.pdf)
 
