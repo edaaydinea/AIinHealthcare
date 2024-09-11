@@ -52,6 +52,7 @@
     *   [Module 1 Notes](/L2/W1/lecture_note.ipynb)
     *   [Module 2 Notes](/L2/W2/lecture_note.ipynb)
     *   [Module 3 Notes](/L2/W3/lecture_note.ipynb)
+    *   [Module 4 Notes](/L2/W4/lecture_note.ipynb)
 
 ---
 
