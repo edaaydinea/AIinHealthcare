@@ -68,3 +68,7 @@
 *   Course 1
     *   [**Introduction to Healthcare**](https://coursera.org/share/214c6648c717d5dd09f4ca54690733f2)
     *   [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1060862&Certificate=1)
+  
+*   Course 2
+    *   [**Introduction to Clinical Data**](https://coursera.org/share/30f8623691c56bdf20e33848ce24bc4b)
+    *   [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1075033&Certificate=1)
