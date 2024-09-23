@@ -18,12 +18,12 @@
 
 ### **Course 3: Fundamentals of Machine Learning for Healthcare**
 
-* **Status:** In Progress
+* **Status:** Completed
 * **Link:** <https://www.coursera.org/learn/fundamental-machine-learning-healthcare?specialization=ai-healthcare>
 
 ### **Course 4: Evaluating AI Applications in Healthcare**
 
-* **Status:** Not Started
+* **Status:** In Progress
 * **Link:** <https://www.coursera.org/learn/evaluating-ai-applications-healthcare?specialization=ai-healthcare>
 
 ### **Course 5: AI in Healtcare Capstone**
@@ -69,6 +69,18 @@
   * [Module 5 Notes](/L3/W5/lecture_note.ipynb)
   * [Module 6 Notes](/L3/W6/lecture_note.ipynb)
   * [Module 7 Notes](/L3/W7/lecture_note.ipynb)
+
+### _**Course 4: Evaluating AI Applications in Healthcare**_
+
+* **Status:** In Progress
+* **Lecture Notes:**
+  * [Module 1 Notes](/L4/W1/lecture_note.ipynb)
+  * [Module 2 Notes](/L4/W2/lecture_note.ipynb)
+  * [Module 3 Notes](/L4/W3/lecture_note.ipynb)
+  * [Module 4 Notes](/L4/W4/lecture_note.ipynb)
+  * [Module 5 Notes](/L4/W5/lecture_note.ipynb)
+  * [Module 6 Notes](/L4/W6/lecture_note.ipynb)
+  * [Module 7 Notes](/L4/W7/lecture_note.ipynb)
 
 ---
 
