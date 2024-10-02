@@ -23,12 +23,12 @@
 
 ### **Course 4: Evaluating AI Applications in Healthcare**
 
-* **Status:** In Progress
+* **Status:** Completed
 * **Link:** <https://www.coursera.org/learn/evaluating-ai-applications-healthcare?specialization=ai-healthcare>
 
 ### **Course 5: AI in Healtcare Capstone**
 
-* **Status:** Not Started
+* **Status:** In Progress
 * **Link:** \<<https://www.coursera.org/learn/ai-healthcare-capstone?specialization=ai-healthcare>
 
 ---
@@ -79,7 +79,6 @@
   * [Module 3 Notes](/L4/W3/lecture_note.ipynb)
   * [Module 4 Notes](/L4/W4/lecture_note.ipynb)
   * [Module 5 Notes](/L4/W5/lecture_note.ipynb)
-  * [Module 6 Notes](/L4/W6/lecture_note.ipynb)
   * [Module 7 Notes](/L4/W7/lecture_note.ipynb)
 
 ---
@@ -104,3 +103,10 @@ Course 3
 
 * [**Fundamentals of Machine Learning for Healthcare**](https://coursera.org/share/f5c94efd3b8f32ca5e7beb399e9ede1e)
 * [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1078753&Certificate=1)
+
+
+Course 4
+
+* [**Evaluating AI Applications in Healthcare**](https://coursera.org/share/5beac89f6e15f8155d8f177e1d2998ec)
+* [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1083772&Certificate=1)
+  
