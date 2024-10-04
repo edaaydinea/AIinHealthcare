@@ -2,7 +2,7 @@
 
 * **Where:** Coursera
 * **University/Institute:** Stanford University
-* **Status:** In progress
+* **Status:** Completed
 
 ## Courses in this Specialization
 
