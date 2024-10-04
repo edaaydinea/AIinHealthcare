@@ -28,7 +28,7 @@
 
 ### **Course 5: AI in Healtcare Capstone**
 
-* **Status:** In Progress
+* **Status:** Completed
 * **Link:** \<<https://www.coursera.org/learn/ai-healthcare-capstone?specialization=ai-healthcare>
 
 ---
@@ -109,4 +109,13 @@ Course 4
 
 * [**Evaluating AI Applications in Healthcare**](https://coursera.org/share/5beac89f6e15f8155d8f177e1d2998ec)
 * [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1083772&Certificate=1)
+
+Course 5
+
+* [**AI in Healthcare Capstone**](https://coursera.org/share/8895c5db24e06b515d27dc780f0b5bda)
+* [**Certificate from Stanford Medicine**](https://stanford.cloud-cme.com/TranscriptPopUp.aspx?UserID=390919&CECreditsPKey=1084449&Certificate=1)
+
+---
+
+[Specialization Certificate](https://coursera.org/share/ee015089587f299a7cfe208cf1071b5d)
   
